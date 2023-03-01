@@ -1,7 +1,4 @@
-### About
-
-I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦. I am on my journey to become a product designer (who can code) at the moment. I live on a 6-acre farm working as a professional butler for my cat🐈. This repo is solely for my "personal" tech interests.
-
+I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦. 
 
 ### What I'm currently into these days (Feb, 2023)
 1. Creating design systems with good old CSS🎨
