@@ -1,6 +1,6 @@
 ### Hi, I'm Ryan Lee
 
-I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦. I'm trying to become a product designer at the moment. This repo is solely for my "personal" tech interests.
+I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦, who is also trying to become a product designer at the moment. This repo is solely for my "personal" tech interests.
 
 
 ### What I'm currently into these days (Feb, 2023)
