@@ -1,6 +1,6 @@
 I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦. 
 
-### What I'm currently into these days (Feb, 2023)
+### What I'm currently into (Feb, 2023)
 1. Creating design systems with good old CSS🎨
 2. Integration of generative AI with design systems 👩🏽‍🎨 (or integration between ChatGPT and traditional APIs in general)
 3. Cloud🌤️ Native stuff such as building a universal YAML scripting language that can be used in cloud native environment check out [YAMAS](https://github.com/the-watchmaker/typingbrain) 
