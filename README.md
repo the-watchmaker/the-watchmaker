@@ -2,7 +2,7 @@ I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨�
 
 ### What I'm currently into (Feb, 2023)
 1. Design System: Creating design systems with good old CSS🎨
-2. Applied AI: Integration of generative AI with design systems 👩🏽‍🎨 or integration between ChatGPT and traditional APIs in general.
+2. Applied AI: Integration of generative AI with design systems 👩🏽‍🎨 and integration between ChatGPT and traditional APIs in general.
 3. Cloud🌤️ Native: Such as building a universal YAML scripting language that can be used in cloud native environment check out [YAMAS](https://github.com/the-watchmaker/typingbrain) and a Pprometheus exporter builder app using YAMAS🗻
 4. Decentralized Apps: 📡 Interconnected desktop apps using Tauri and Electron as UI and some experimental distributed computing stuff.
 
