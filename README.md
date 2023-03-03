@@ -7,7 +7,7 @@
 
 ### Pet Projects
 1. [TypingBrain](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
-2. [YAMAS](https://github.com/the-watchmaker/yamas): Script language using YAML and run on command line tool(+lib) for Cloud Native Stuff
+2. [YAMAS](https://github.com/the-watchmaker/yamas): A YAML Scripting language that can be run on CLI and libs to mutate itself for some useful stuff
 3. YAMAS-UI: a GUI to turn YAMAS into a visual programming language (upcoming up...)
 4. Exporter Bulider: Using YAMAS-UI, you can now create whatever Prometheus exporter you desire (upcoming up...)
 5. walldash: A desktop dashboard app built in Tauri and Rust. One click P8s connection. (upcoming up...)
