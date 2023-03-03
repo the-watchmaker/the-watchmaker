@@ -9,7 +9,6 @@
 1. [TypingBrain](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
 2. [YAMAS](https://github.com/the-watchmaker/yamas): A YAML Scripting language that can be run on CLI and libs to mutate itself for some useful stuff
 3. YAMAS-UI: a GUI to turn YAMAS into a visual programming language (upcoming up...)
-4. Exporter Bulider: Using YAMAS-UI, you can now create whatever Prometheus exporter you desire (upcoming up...)
 
 ### Generative AI is the new MSG for your app now
 ![uncle-roger-king-of-flavour](https://user-images.githubusercontent.com/4682613/221276183-9622da64-1231-445e-9ae4-aeea30db95e5.gif)
