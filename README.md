@@ -1,9 +1,10 @@
 ### What I'm currently into (Mar, 2023)
 1. 🤩 Product Design 
-2. 🎨 Design Systems 
+2. 🎨 Design Systems (and good old CSS)
 3. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs 
 4. 🌤️ Cloud Native. Check out [YAMAS](https://github.com/the-watchmaker/typingbrain)
-5. 📡 Desktop dApps
+5. 📡 Desktop dApps Check out [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
+6. 📊 Grafana OpenSource plugins
 
 ### Pet Projects
 1. [TypingBrain](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
