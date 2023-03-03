@@ -1,5 +1,3 @@
-I'm a product-UX-focused full-stack developer based in Vancouver, Canada 🇨🇦. 
-
 ### What I'm currently into (Feb, 2023)
 1. Design System: Creating design systems with good old CSS🎨
 2. Applied AI: Integration of generative AI with design systems 👩🏽‍🎨 and integration between ChatGPT and traditional APIs in general.
