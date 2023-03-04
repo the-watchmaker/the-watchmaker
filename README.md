@@ -2,7 +2,7 @@
 1. 🤩 Product Design 
 2. 🎨 Design Systems (and good old CSS)
 3. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs 
-4. 🌤️ Cloud Native. Check out [YAMAS](https://github.com/the-watchmaker/typingbrain)
+4. 🌤️ Cloud Native stuff. Check out [YAMAS](https://github.com/the-watchmaker/yamas)
 5. 📡 Desktop dApps Check out [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
 6. 📊 Grafana OpenSource plugins
 
