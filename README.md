@@ -1,3 +1,6 @@
+Spent some quality time with my fam in Jan and Feb. :D :D :D 
+
+
 ### What I'm currently into (Mar, 2023)
 1. 🤩 Product Design 
 2. 🎨 Design Systems (and good old CSS)
