@@ -9,7 +9,7 @@ Building portfolio website out of Notion. <br />
 4. 🌤️ Cloud Native stuff. Check out [YAMAS](https://github.com/the-watchmaker/yamas)
 5. 📡 Desktop dApps Check out [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
 
-### Pet Projects
+### New Pet Projects
 1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
 2. [YAMAS - WIP](https://github.com/the-watchmaker/yamas): A YAML Scripting language that can be run on CLI and libs to mutate itself for some useful stuff
 3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): Tiny lightweight desktop app that manages your cloud resources
