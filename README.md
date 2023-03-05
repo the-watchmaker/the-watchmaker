@@ -1,6 +1,6 @@
-Spent some quality time with my fam in Jan and Feb. 
-Embarking on some new exciting projects.
-Building portfolio website out of Notion. 
+Spent some quality time with my fam in Jan and Feb. <br />
+Embarking on some new exciting projects. <br />
+Building portfolio website out of Notion. <br />
 
 ### What I'm currently into (Mar, 2023)
 1. 🤩 Product Design 
