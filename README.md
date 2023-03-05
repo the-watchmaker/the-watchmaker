@@ -3,7 +3,7 @@ Embarking on some new exciting projects. <br />
 Building portfolio website out of Notion. <br />
 
 ### What I'm currently into (Mar, 2023)
-1. 🤩 Product Design 
+1. 🤩 Product Design (for data visualization)
 2. 🎨 Design Systems (good old CSS + ChatGPT)
 3. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs
 4. 🌤️ Cloud Native stuff. Check out [YAMAS](https://github.com/the-watchmaker/yamas)
