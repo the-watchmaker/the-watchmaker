@@ -7,7 +7,6 @@ Spent some quality time with my fam in Jan and Feb. :D :D :D
 3. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs 
 4. 🌤️ Cloud Native stuff. Check out [YAMAS](https://github.com/the-watchmaker/yamas)
 5. 📡 Desktop dApps Check out [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
-6. 📊 Grafana OpenSource plugins
 
 ### Pet Projects
 1. [TypingBrain](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
