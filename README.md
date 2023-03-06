@@ -6,6 +6,7 @@ Embarking on some new exciting projects. <br />
 2. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs
 3. 🌤️ Cloud Native stuff. [Terrari - WIP](https://github.com/the-watchmaker/terrari) and [YAMAS](https://github.com/the-watchmaker/yamas)
 4. 📡 Desktop apps or dApps. [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
+5. 🤪 dbt, data stack and BI stuff. Accidentally got into it. Just finished a bootcamp on Udemy. 
 
 ### New Pet Projects
 1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
