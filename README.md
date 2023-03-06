@@ -16,7 +16,7 @@ Embarking on some new exciting projects. <br />
 
 ### Daydreaming Topics
 1. What would be the cheapest way to build a dApp without blockchain nor opening up ports like torrent?
-2. OpenSource front-end UX/UI is not good because only frontend is contributing and no designers are in the process. How can we solve this?
+2. OpenSource front-end UX/UI is not good because only devs are contributing and no designers are in the process. How can we solve this?
 
 
 ### Generative AI is the new MSG for your app now
