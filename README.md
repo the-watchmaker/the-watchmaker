@@ -14,6 +14,11 @@ Embarking on some new exciting projects. <br />
 3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): Tiny lightweight desktop app that manages your cloud resources
 4. [mood-css-gpt - WIP](https://github.com/the-watchmaker/mood-css-gpt): An experiment that captures emotions from a text and translate them into CSS using ChatGPT
 
+### Daydreaming Topics
+1. What would be the cheapest way to build a dApp without blockchain nor opening up ports like torrent?
+2. OpenSource front-end UX/UI is not good because only frontend is contributing and no designers are in the process. How can we solve this?
+
+
 ### Generative AI is the new MSG for your app now
 ![uncle-roger-king-of-flavour](https://user-images.githubusercontent.com/4682613/221276183-9622da64-1231-445e-9ae4-aeea30db95e5.gif)
 
