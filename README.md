@@ -2,11 +2,10 @@ Spent some quality time with my fam in Jan and Feb. <br />
 Embarking on some new exciting projects. <br />
 
 ### What I'm currently into (Mar, 2023)
-1. 🤩 Product Design for data visualization
-2. 🎨 Design Systems with good old CSS (+ChatGPT)
-3. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs
-4. 🌤️ Cloud Native stuff. Check out [YAMAS](https://github.com/the-watchmaker/yamas)
-5. 📡 Desktop dApps Check out [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
+1. 🎨 Design Systems with good old CSS (+ChatGPT)
+2. 👩🏽‍🎨 Applied AI: Mostly ChatGPT integration with legacy APIs
+3. 🌤️ Cloud Native stuff. [Terrari - WIP](https://github.com/the-watchmaker/terrari) and [YAMAS](https://github.com/the-watchmaker/yamas)
+4. 📡 Desktop apps or dApps. [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
 
 ### New Pet Projects
 1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
