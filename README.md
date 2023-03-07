@@ -12,7 +12,7 @@ Embarking on some new exciting projects. <br />
 3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): (Tauri) Tiny lightweight desktop app that manages your cloud resources
 
 ### Projects I'm into
-1. [Lightdash](https://github.com/lightdash/lightdash) Super awesome easy-to-use open-source BI platform. My interests are at data visualization, business logics around dbt and the data stacks, also opportunity to interact and learn from data analyst stakeholders within its growing community.
+1. [Lightdash](https://github.com/lightdash/lightdash) Super awesome easy-to-use open-source BI platform. I'm interested in its data visualization, business logics around dbt and the data stacks, also opportunity to interact and learn from data analyst stakeholders within its growing community.
 2. [PRQL](https://github.com/prql/prql) a SQL replacer that comes with data transform and purposed for data pipeline. I'm intersted in their language design, and the compiler written in Rust for a good read.
 
 ### Generative AI is the new MSG for your app now
