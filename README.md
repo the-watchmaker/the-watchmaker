@@ -12,7 +12,7 @@ Embarking on some new exciting projects. <br />
 3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): Tiny lightweight desktop app that manages your cloud resources
 
 ### Projects I'm into
-1. [Lightdash](https://github.com/lightdash/lightdash) An open-source BI platform, data visualizstion, data analytics and dbt stuff
+1. [Lightdash](https://github.com/lightdash/lightdash) Super awesome easy-to-use open-source BI platform, data visualizstion, data analytics and dbt 
 
 ### Generative AI is the new MSG for your app now
 ![uncle-roger-king-of-flavour](https://user-images.githubusercontent.com/4682613/221276183-9622da64-1231-445e-9ae4-aeea30db95e5.gif)
