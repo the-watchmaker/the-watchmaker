@@ -4,7 +4,7 @@ Embarking on some new exciting projects. <br />
 ### What I'm currently into (Mar, 2023)
 1. 🎨 Design Systems with good old CSS + ChatGPT 
 2. 📡 Desktop apps or dApps. [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
-3. 🤪 dbt, data stack and BI stuff. Accidentally got into it.
+3. 🤪 dbt, data stack and BI stuff. It is one of the most practical and lowest layers I can get to the AI world. [love this vid](https://www.youtube.com/watch?v=o-UD5dS_N2k)
 
 ### New Pet Projects
 1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): learning/retaining language syntax just by typing. 
