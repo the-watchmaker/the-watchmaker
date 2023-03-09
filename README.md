@@ -17,6 +17,6 @@ Embarking on some new exciting projects. <br />
 
 ### Terrari project got a new logo
 
-<img src="https://user-images.githubusercontent.com/4682613/221276183-9622da64-1231-445e-9ae4-aeea30db95e5.gif" width="200px" />
+<img src="https://user-images.githubusercontent.com/4682613/223884034-7c312ad6-b47f-463a-a3ad-f5a47c6bdb9b.png" width="200px" />
 Thank you Grace Ling (IG @ candyleaf_) for letting me use this as Terrari logo!
 
