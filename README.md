@@ -1,6 +1,6 @@
 ### Terrari project got a new logo
 <img src="https://user-images.githubusercontent.com/4682613/223884034-7c312ad6-b47f-463a-a3ad-f5a47c6bdb9b.png" width="200px" />
-Thank you Grace Ling (IG @ [candyleaf_](https://www.instagram.com/candyleaf_)) for letting me use this as Terrari logo!
+Thank you Grace Ling IG @ [candyleaf_](https://www.instagram.com/candyleaf_) for letting me use this as Terrari logo!
 
 ### 🔥 Hot Open Source Projects You Should Star ⭐️
 1. ⭐️ [Lightdash](https://github.com/lightdash/lightdash) Super awesome easy-to-use open-source BI platform. I'm interested in its data visualization, business logics around dbt and the data stacks, also opportunity to interact and learn from data analyst stakeholders within its growing community.
