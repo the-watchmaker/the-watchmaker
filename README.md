@@ -1,5 +1,5 @@
 ### Terrari project got a new logo
-<img src="https://user-images.githubusercontent.com/4682613/223884034-7c312ad6-b47f-463a-a3ad-f5a47c6bdb9b.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/4682613/223884034-7c312ad6-b47f-463a-a3ad-f5a47c6bdb9b.png" width="170px" />
 Thank you Grace Ling for letting me use this as Terrari logo! <br/>
 Follow IG @ [candyleaf_](https://www.instagram.com/candyleaf_) 
 
