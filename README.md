@@ -4,8 +4,8 @@
 
 ### My New Pet Projects
 1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): (Electron) learning/retaining language syntax just by typing. 
-2. [ByteStep - WIP](https://github.com/the-watchmaker/bytestep): (Next) Tiny blog/website builder using AirTable
-3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): (Tauri) Tiny lightweight desktop app that manages your cloud resources
+2. [ByteStep - WIP](https://github.com/the-watchmaker/bytestep): (Next) blog/website builder using AirTable
+3. [Terrari - WIP](https://github.com/the-watchmaker/terrari): (Tauri) Cute lightweight desktop app that manages your cloud resources
 
 <b>Terrari project got a new logo</b>
 
