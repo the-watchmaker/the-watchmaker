@@ -1,4 +1,4 @@
-### 🔥 Hot Open Source Projects You Should Star ⭐️
+### 🔥 Hot Projects You Should Star ⭐️
 1. ⭐️ [Lightdash](https://github.com/lightdash/lightdash) Super awesome easy-to-use/setup BI dashboard for dbt.
 2. ⭐️ [PRQL](https://github.com/prql/prql) SQL replacer 🤔 that comes with data transform and purposed for data pipeline.
 
