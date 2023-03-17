@@ -3,7 +3,7 @@
 2. ⭐️ [PRQL](https://github.com/prql/prql) SQL replacer 🤔 that comes with data transform and purposed for data pipeline.
 
 ### My New Pet Projects
-1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): (Electron) learning/retaining language syntax just by typing. I have decided to create the online version for the TypingBrain for my small venture, while keeping the desktop version open-source and free to use.
+1. [TypingBrain - working Alpha](https://github.com/the-watchmaker/typingbrain): (Electron) learning/retaining language syntax just by typing. Thanks y'all for trying it out.
 2. [Terrari - WIP](https://github.com/the-watchmaker/terrari): (Tauri) Cute lightweight desktop app that manages your cloud resources
 
 <b>Terrari project got a new logo</b>
