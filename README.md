@@ -12,8 +12,7 @@
 Thank you Grace Ling for letting me use this as Terrari logo! <br/>
 Follow IG @ [candyleaf_](https://www.instagram.com/candyleaf_) 
 
-
 ### What I'm currently into
-1. 🎨 Design Systems with good old CSS + ChatGPT 
-2. 📡 Desktop apps or dApps. [TypingBrain](https://github.com/the-watchmaker/typingbrain) 
+1. 🎨 Design Systems with good old CSS and product design.
+2. 📡 Desktop apps or dApps. [TypingBrain](https://github.com/the-watchmaker/typingbrain)
 3. 📝 dbt, data stack and BI stuff. 
