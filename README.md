@@ -1,4 +1,1 @@
-### What I'm currently into
-1. Llama
-2. Langchain
-3. Chrome Extensions
+I'm currently building an AI-powered no-code app builder.
